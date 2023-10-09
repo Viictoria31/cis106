@@ -3,7 +3,6 @@ Name: Erneldy Reynoso
 Semestre: Fall 23
 Course: CIS 106 Linux Fundamentals
 ---
-
 # Lab 2 Installing Unbuntu Submission.
 
 ## Question 1 
