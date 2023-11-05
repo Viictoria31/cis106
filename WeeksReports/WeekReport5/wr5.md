@@ -40,10 +40,15 @@ _The cp command is used to copy files or directories from one location to anothe
 **cp sourcefile.txt /path/to/destination/**
 
 ## Practice 1
-[Prc1.png](Prc1.png)
+![Prc.png](Prc1.png)
 
 ## Practice 2
-
+![Prc2.png](Prc2.png)
 ## Practice 3
+![Practice3.png](Practice3.png)
+![Samplesitephoto.png](Samplesitephoto.png)
+
+![Samplesite2photo.png](Samplesite2photo.png)
 
 ## Practice 4 
+![Practice4.png](Practice4.png)
