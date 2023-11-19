@@ -23,5 +23,11 @@ Course: CIS 106 Linux Fundamentals
 ![q.4.lab6.png](q4.3.png)
 ![q.4.lab6.png](q4.4.png)
 
+## Question 5 Challenge
+![Challenge1.png](Challegeq.1.png)
+![Challenge2.png](Challenge.2.png)
+
+
+
 
 
