@@ -1,0 +1,44 @@
+---
+Name: Erneldy Reynoso
+Semestre: Fall 2023
+Course: cis106
+Instructor: H. Alberto
+---
+
+# Deliverable 1 Submission
+
+## Basic Terminology
+
+### What is Apache?
+_Apache is an open source web server software. It is one of the most widely used web servers in the world, and is known for its stability and flexibility. It can be used to host websites, web applications, and other types of web based content._
+
+### What is Web Server?
+_A web server is a software or hardware system that stores, processes, and delivers web content (like web pages, images, or files)_
+
+
+
+## What are some example web server applications?
+
+| Application Name | License                                    | Project's Website         |
+| ---------------- | ------------------------------------------ | ------------------------- |
+| Apache           | Apache License 1.0 and Apache License 2.0. | https://httpd.apache.org/ |
+| Caddy            | Apache License 2.0.                        | https://caddyserver.com/  |
+| Nginx            | 2 clause BSD like                          | https://nginx.org/        |
+
+
+#### Apache
+![logo Apache](ezgif-2-d5cae77406.png)
+_Apache is a robust and widely used open source web server software that plays a pivotal role in serving and delivering web content. It efficiently handles HTTP requests, making it the go to choice for hosting dynamic websites and applications. Apache remains a reliable foundation for web hosting, ensuring seamless connectivity and performance across the digital landscape._
+
+#### Caddy
+![logo Caddy](ezgif-1-398146e154.png)
+_Caddy is a cutting edge web server that stands out for its simplicity and powerful features. What sets Caddy apart is its automatic HTTPS configuration, providing secure connections by default. Caddy eliminates the complexity of manual certificate management._
+
+#### Nginx
+![logo Caddy](ezgif-1-a3de21de7c.png)
+_Nginx stands as a high performance, open source web server and reverse proxy, delivering unparalleled speed and versatility. ts modular design allows for seamless integration of additional features, including load balancing and caching._
+
+### What is virtualization?
+_Virtualization is a technology that enables the creation of virtual instances or representations of computer resources, such as servers, storage, networks, and operating systems._
+
+
