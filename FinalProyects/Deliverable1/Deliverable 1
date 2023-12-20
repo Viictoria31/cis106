@@ -41,4 +41,23 @@ _Nginx stands as a high performance, open source web server and reverse proxy, d
 ### What is virtualization?
 _Virtualization is a technology that enables the creation of virtual instances or representations of computer resources, such as servers, storage, networks, and operating systems._
 
+### What is virtualbox?
+![VirtualBoxlogo](Virtualbox.jpg)
+_VirtualBox is an open source hosted hypervisor developed by Oracle. It facilitates the creation and management of virtual machines on a single physical computer. This software supports a broad range of host operating systems, including Windows, macOS, Linux._
+
+### What is a virtual machine?
+ _A virtual machine is a software based emulation of a physical computer. It allows to run an operating system and applications on a virtualized environment._
+
+### What is Ubuntu Server?
+![Ubuntulogo](ezgif-2-cdb46b6df3.png)
+_Ubuntu Server is a versatile and secure operating system, offering stability, security, and community support. Whether hosting web servers, managing databases, or embracing cloud technologies._
+
+### What is a firewall?
+_A firewall is a critical component of network security designed to monitor, filter, and control incoming and outgoing network traffic based on predetermined security rules._
+
+### What is SSH?
+
+SSH, or Secure Shell, is network protocol that facilitates secure communication over unsecured networks.used for remote command line login and secure file transfers, SSH ensures the confidentiality and integrity of data exchanged between two systems
+
+## Other Relevant Concepts
 
