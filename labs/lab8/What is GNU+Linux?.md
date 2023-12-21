@@ -1,3 +1,9 @@
+---
+Name: Erneldy Reynoso
+Semestre: Fall 23
+Course: CIS 106 Linux Fundamentals
+---
+
 # What is GNU+Linux?
  GNU+Linux is an open source operating system renowned for its stability and efficiency. Widely used in servers and various systems, it thrives on a collaborative community.
 # 3 Reasons to use GNU+Linux:

@@ -57,7 +57,15 @@ _A firewall is a critical component of network security designed to monitor, fil
 
 ### What is SSH?
 
-SSH, or Secure Shell, is network protocol that facilitates secure communication over unsecured networks.used for remote command line login and secure file transfers, SSH ensures the confidentiality and integrity of data exchanged between two systems
+_SSH, or Secure Shell, is network protocol that facilitates secure communication over unsecured networks.used for remote command line login and secure file transfers, SSH ensures the confidentiality and integrity of data exchanged between two systems_
 
 ## Other Relevant Concepts
+
+_Firewall: UFW (Uncomplicated Firewall) streamlines netfilter management, ensuring ease of use for controlling firewalls._
+
+_Web Server: Apache, a free and open-source software, facilitates the deployment of websites on the internet._
+
+_Multi domain Hosting: Through virtual hosting, a server efficiently shares resources like memory and processor cycles among various domain names, promoting flexibility without the necessity for uniform host names across all services._
+
+
 
